@@ -39,5 +39,4 @@
 </p>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=abhinavm945&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavm945" />
-s
+   <img align="center" src="https://streak-stats.demolab.com?user=abhinavm945" alt="Abhinav Mishra" />
