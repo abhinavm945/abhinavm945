@@ -38,4 +38,5 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavm945&layout=compact" alt="Abhinav Mishra" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavm945&" alt="Abhinav Mishra" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=abhinavm945" alt="Abhinav Mishra" />
+</p>
