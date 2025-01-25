@@ -5,7 +5,7 @@
    <img src="https://komarev.com/ghpvc/?username=abhinavm945&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavm945" />
 </p>
 
-- 🌱 I’m currently studying **Computer Science**.
+- 🌱 I’m currently studying **Electronic and communictaion Engineering**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 🤝 I’m looking for help with **Advancing in Machine Learning and Web Development**.
 - 💬 Ask me about **Web Development**.
