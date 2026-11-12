@@ -1,9 +1,24 @@
-<h1 align="center">Heya 👋, I'm Abhinav Mishra</h1>
-<h3 align="center">Passionate about Full-stack Development and Machine Learning</h3>
+<h1 align="center">Heya, I'm Abhinav Mishra</h1>
+<h3 align="center">Founder of <a href="https://www.aistorehub.in">AIStoreHub</a> | Full-Stack &amp; AI Systems Engineer</h3>
 
 <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=abhinavm945&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavm945" />
 </p>
+
+### Founder &amp; Creator of [AIStoreHub](https://www.aistorehub.in)
+* **Live Registry:** [https://www.aistorehub.in](https://www.aistorehub.in) - The open registry and package manager for autonomous AI systems, agent skills, and Model Context Protocol (MCP) servers.
+* **CLI Package:** Creator of [AIStoreHub CLI](https://github.com/abhinavm945/aistorehub-cli) on PyPI (`pip install aistorehub`).
+* **Curated Directory:** Maintainer of [Awesome MCP Servers](https://github.com/abhinavm945/awesome-mcp-servers) for Cursor, Claude Desktop, and Windsurf.
+* **Featured Open-Source AI Systems:**
+  * [Omniroute Multi-LLM Router MCP](https://www.aistorehub.in/community/catalog/omniroute)
+  * [Super Video Maker Autonomous Skill](https://www.aistorehub.in/community/catalog/super-video-maker-skill)
+  * [PostgreSQL Inspector MCP](https://www.aistorehub.in/community/catalog/mcp-server-postgres)
+  * [VoiceStudio AI Synthesizer](https://www.aistorehub.in/community/catalog/voicestudio)
+  * [Filesystem MCP Sandboxed Tool](https://www.aistorehub.in/community/catalog/mcp-filesystem)
+* **Engineering Blog & Technical Handbooks:**
+  * [Top 25 Model Context Protocol Servers for Cursor &amp; Claude](https://www.aistorehub.in/blog/top-mcp-servers-cursor-claude-2026)
+  * [How to Build an MCP Server with Python FastMCP](https://www.aistorehub.in/blog/how-to-build-python-mcp-server-fastmcp)
+  * [Where is claude_desktop_config.json? Exact Paths for Windows &amp; Mac](https://www.aistorehub.in/blog/claude-desktop-mcp-setup-troubleshooting-guide)
 
 - 🌱 I’m currently studying **Electronic and communictaion Engineering**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
